@@ -1,9 +1,10 @@
 package main
 
-import "fmt"
+import arrays_and_slices "gitlab.com/mt65/go-with-tests/04-arrays_and_slices"
 
 func main() {
-	fmt.Println(Hello("world", ""))
+	//fmt.Println(Hello("world", ""))
+	arrays_and_slices.AffectingSlicedArrayExample()
 }
 
 const (
