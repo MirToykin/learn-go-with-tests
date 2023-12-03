@@ -1,6 +1,6 @@
 package main
 
-import arrays_and_slices "gitlab.com/mt65/go-with-tests/04-arrays_and_slices"
+import arrays_and_slices "github.com/MirToykin/go-with-tests/04-arrays_and_slices"
 
 func main() {
 	//fmt.Println(Hello("world", ""))

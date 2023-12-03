@@ -1,3 +1,3 @@
-module gitlab.com/mt65/go-with-tests
+module github.com/MirToykin/go-with-tests
 
 go 1.20
